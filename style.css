@@ -1,0 +1,132 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+header .left {
+    width: 50%;
+    height: auto;
+    display: inline-flex;
+    justify-content: space-around;
+}
+header .right {
+    width: 50%;
+    height: 100% ;
+    background-color:cadetblue;
+    float: right;
+}
+header .left ul li a {
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    color: black;
+}
+header .left ul li {
+    display: inline-flex;
+    padding: 20px;
+}
+header .left .curriculum {
+    margin-top: 10px;
+    font-size: 20px;
+}
+.right img {
+    width: 420px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 150px;
+
+}
+main h1 {
+    margin-top: 100px;
+    margin-left: 250px;
+}
+main h4{
+    margin-left: 250px;
+    font-size: large;
+}
+.links {
+    width: 500px;
+    height: 500px;
+    margin-left: 240px;
+}
+.links span {
+    padding: 5px;
+}
+.links .icons {
+    display: inline-flex;
+    padding: 10px;
+    margin-right: 50px;
+    margin-left:0px;
+}
+.links .icons a {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 17px;
+    color: black;
+    margin-left: 0px;
+}
+.full p a {
+    margin-top: 80px;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    bottom: 300px;
+    left: 290px;
+    color: black;
+}
+.about {
+    width: 460px;
+    height: 300px;
+    margin-left: 180px;
+}
+.about p {
+    font-size: 24px;
+    font: bold;
+}
+header .right {
+    position: fixed;
+    left: 790px;
+    bottom: 50px;
+}
+.skills {
+    width: 460px;
+    height: 300px;
+    margin-left: 180px;
+}
+.skills p {
+    font-size: 24px ;
+    font: bold;
+}
+.work {
+    width: 460px;
+    height: 300px;
+    margin-left: 180px;
+}
+.work p {
+    font-size: 24px;
+    font: bold;
+}
+.contact {
+    width: 460px;
+    height: 300px;
+    margin-left: 180px;
+}
+.contact p {
+    font-size: 24px;
+}
+.contact a {
+    color: black;
+}
+footer {
+    margin-top: 100px;
+    font-size: 18px;
+    margin-left: 110px;
+}
+.line {
+    border-bottom: 1px solid black;
+    margin-left: 5px;
+    display: inline-block;
+    height: 1px;
+    width: 40%;
+}
+
